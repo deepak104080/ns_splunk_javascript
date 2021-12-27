@@ -25,13 +25,9 @@ https://jsfiddle.net/deepak104080/rfuh02na/3/
 https://jsfiddle.net/deepak104080/ynhvq5sb/2/
 
 ----------------------------------
-
-
-
-
-Next
-Strict Mode
-Lexical Scope
-Variables Accessibility
-user input
-
+Day 3
+Array and Methods
+Addition, Deletion, Check, Emptry, Spread Operator
+Fill, Find, Slice, Splice, Merge, Join, Split, Sort
+JSFiddle - https://jsfiddle.net/deepak104080/3528qen0/4/
+Arrow Function - https://jsfiddle.net/deepak104080/oj65wvn3/1/
