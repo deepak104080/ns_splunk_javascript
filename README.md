@@ -31,3 +31,10 @@ Addition, Deletion, Check, Emptry, Spread Operator
 Fill, Find, Slice, Splice, Merge, Join, Split, Sort
 JSFiddle - https://jsfiddle.net/deepak104080/3528qen0/4/
 Arrow Function - https://jsfiddle.net/deepak104080/oj65wvn3/1/
+
+--------------------------------------
+Day 4
+https://jsfiddle.net/deepak104080/u5v0j2yb/1/
+https://jsfiddle.net/deepak104080/f3ehtrLm/3/
+https://jsfiddle.net/deepak104080/kopL8e1n/2/
+Assignment - https://jsfiddle.net/deepak104080/jwqmyxk5/1/
