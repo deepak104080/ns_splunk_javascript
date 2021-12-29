@@ -37,4 +37,13 @@ Day 4
 https://jsfiddle.net/deepak104080/u5v0j2yb/1/
 https://jsfiddle.net/deepak104080/f3ehtrLm/3/
 https://jsfiddle.net/deepak104080/kopL8e1n/2/
-Assignment - https://jsfiddle.net/deepak104080/jwqmyxk5/1/
+Assignment - https://jsfiddle.net/deepak104080/jwqmyxk5/2/
+
+--------------------------------------
+Day  5
+https://jsfiddle.net/deepak104080/ovxf50pq/5/
+https://jsfiddle.net/deepak104080/6kqum4sh/4/
+https://jsfiddle.net/deepak104080/9cbfqv3y/2/
+https://jsfiddle.net/deepak104080/1ujv5hxr/2/
+
+
