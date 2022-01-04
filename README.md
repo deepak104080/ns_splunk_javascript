@@ -47,3 +47,19 @@ https://jsfiddle.net/deepak104080/9cbfqv3y/2/
 https://jsfiddle.net/deepak104080/1ujv5hxr/2/
 
 
+----------------------------------------------
+Day 6
+Math - index.js
+String - index.js
+Date - index.js
+for in and for of - index.js
+Hoisting - https://jsfiddle.net/deepak104080/qbpgdwan/6/
+call, apply, bind - https://jsfiddle.net/deepak104080/m3qyvxks/3/
+
+----------------------------------------------
+
+
+
+
+
+
