@@ -37,7 +37,7 @@ Day 4
 https://jsfiddle.net/deepak104080/u5v0j2yb/1/
 https://jsfiddle.net/deepak104080/f3ehtrLm/3/
 https://jsfiddle.net/deepak104080/kopL8e1n/2/
-Assignment - https://jsfiddle.net/deepak104080/jwqmyxk5/2/
+Assignment - https://jsfiddle.net/deepak104080/jwqmyxk5/11/
 
 --------------------------------------
 Day  5
@@ -54,11 +54,13 @@ String - index.js
 Date - index.js
 for in and for of - index.js
 Hoisting - https://jsfiddle.net/deepak104080/qbpgdwan/6/
-call, apply, bind - https://jsfiddle.net/deepak104080/m3qyvxks/3/
+call, apply, bind - https://jsfiddle.net/deepak104080/m3qyvxks/21/
 
 ----------------------------------------------
-
-
+Day 7
+Palindrome String - https://jsfiddle.net/deepak104080/q8Lwosgt/6/
+Output based Questions - https://jsfiddle.net/deepak104080/bjv4ftqu/10/
+ES6 JS - https://jsfiddle.net/deepak104080/tpo05dey/28/
 
 
 
