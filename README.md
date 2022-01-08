@@ -61,6 +61,10 @@ Day 7
 Palindrome String - https://jsfiddle.net/deepak104080/q8Lwosgt/6/
 Output based Questions - https://jsfiddle.net/deepak104080/bjv4ftqu/10/
 ES6 JS - https://jsfiddle.net/deepak104080/tpo05dey/28/
+------------------------------------------------
+Day 8
+DOM - temp.js and temp.html
+--------------------------------------------------
 
 
 
