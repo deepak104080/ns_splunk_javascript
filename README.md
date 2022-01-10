@@ -65,7 +65,8 @@ ES6 JS - https://jsfiddle.net/deepak104080/tpo05dey/28/
 Day 8
 DOM - temp.js and temp.html
 --------------------------------------------------
-
+Day 9
+DOM - js and html files
 
 
 
