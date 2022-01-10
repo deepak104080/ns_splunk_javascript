@@ -49,6 +49,14 @@ function check1() {
 //event handler vs event listner
 var tempbutton = document.getElementById('testbutton');
 
+
+tempbutton.onclick = () => {
+    console.log("Button clicked.");
+};
+tempbutton.onclick = () => {
+    console.log("Button clicked 2.");
+};
+
 tempbutton.addEventListener('click', testfn);
 tempbutton.addEventListener('click', testfn2);
 tempbutton.addEventListener('click', testfn3);
