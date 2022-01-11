@@ -67,6 +67,11 @@ DOM - temp.js and temp.html
 --------------------------------------------------
 Day 9
 DOM - js and html files
+-------------------------------------------------
+Day 10
+js and html files
+Event Bubbling and Capturing - https://jsfiddle.net/deepak104080/fw4yh8xn/43/
+
 
 
 

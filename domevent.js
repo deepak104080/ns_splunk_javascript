@@ -5,6 +5,10 @@
 
 function testfn(e) {
     console.log(e);
+    console.log(e.target);
+    console.log(e.offsetX);
+    console.log(e.offsetY);
+    console.log(e.target.classList);
     console.log('console inside fn');
 }
 
@@ -28,6 +32,8 @@ function submtifn(e) {
     else {
         alert('Please fill input....')
     }
+
+    e.stopPropagation();
     
 }
 
@@ -60,3 +66,21 @@ tempbutton.onclick = () => {
 tempbutton.addEventListener('click', testfn);
 tempbutton.addEventListener('click', testfn2);
 tempbutton.addEventListener('click', testfn3);
+
+
+function fullImage() {
+    var img = document.getElementById('image123');
+    img.setAttribute('height', '100%');
+    img.setAttribute('width', '100%');
+}
+
+function divclickfn(e) {
+    console.log('div clicked...');
+}
+
+function formsubmit(event) {
+    console.log('form submitted....');
+    event.preventDefault();
+    event.stopPropagation();
+    console.log('write validations, store date');
+}

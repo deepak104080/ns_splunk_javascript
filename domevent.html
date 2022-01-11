@@ -4,25 +4,73 @@
         
     </head>
 <body>
-    <div class="container">
-        <div class="header">
+    <!--Image to fullscreen -->
+    <img id="image123" src="https://www.w3schools.com/images/lamp.jpg"/>
+    <button onclick="fullImage()">Click here for image....</button>
+
+    
+
+
+    <!-- TO DO LIST
+    
+    <input/>
+    <ul></ul>
+
+    click fn
+
+    fn() {
+        var abc - value from input
+        create <li></li>
+        li .text = abc
+
+        li.append - button for deletion
+        li.append - button for marking as done
+
+        ul. append - li
+    } -->
+
+    <!-- div 3 boxes - colour change -->
+
+
+    
+    <div class="container" onclick="containerclickfn()">
+        <div class="header" style="background-color: aquamarine;" onclick="divclickfn()">
             
            <input type="text" placeholder="type here" id="inputbox1" onblur="enablebutton()" />
            <input type="checkbox" id="checkbox1"/>checkbox1
            <button id="button2" onclick="check1()">check this box</button>
-           <button id="button1" onclick="submtifn()" disabled>Submit Form</button>
-
+           <button id="button1" onclick="submtifn(event)" disabled>Submit Form</button>
+            <br>
+            <br>
         </div>
-        
+        <div><br><br>
+            <br>---------------------<br>
+            <br><br>
+            <br></div>
+        <div class="main">
+            <form>
+                <input type="text" id="form1"/>
+                <button type="submit" id="button1" onclick="formsubmit(event)">Submit Form</button>
+            </form>
+            
+        </div>
+        <div><br><br>
+            <br>---------------------<br>
+            <br><br>
+            <br></div>
         <div class="footer">
             
         </div>
 
 
-        <div>---------------------</div>
+        <div>---------------------<br>
+            <br><br>
+            <br></div>
 
-        <button onclick="testfn(event)">Click here 1</button>
-
+        <button onclick="testfn(event)" class="abc def small big">Click here 1</button>
+        <br>
+        <br><br>
+        <br>
         <button id="testbutton">Click here 2</button>
     </div>
     <script src="domevent.js" type="text/javascript"></script>
