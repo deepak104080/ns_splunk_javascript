@@ -69,6 +69,10 @@ DOM - js and html files
 Day 10
 js and html files
 Event Bubbling and Capturing - https://jsfiddle.net/deepak104080/fw4yh8xn/44/
+-------------------------------------------------
+Day 11
+js and html files
+Event Delegation - https://jsfiddle.net/deepak104080/b2rd0eq3/26/
 
 
 

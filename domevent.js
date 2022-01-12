@@ -84,3 +84,15 @@ function formsubmit(event) {
     event.stopPropagation();
     console.log('write validations, store date');
 }
+
+
+function checknumber() {
+    var number = document.getElementById('mobilenumber');
+    console.log(typeof(number.value));
+
+    var regMobile = /^\d{10}$/;
+    var regMobile2 = /^[6-9]{1}[0-9]{9}$/;
+
+    console.log(regMobile2.test(number.value));
+
+}
