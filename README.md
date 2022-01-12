@@ -1,10 +1,8 @@
 Documentation for JavaScript
 ----------------------------------
 Day 1
-JS Intro
-Variables and Functions
-https://jsfiddle.net/deepak104080/tygeam2b/2/
-https://jsfiddle.net/deepak104080/jrtf58wb/36/
+JS Intro - https://jsfiddle.net/deepak104080/tygeam2b/3/
+Variables and Functions - https://jsfiddle.net/deepak104080/jrtf58wb/38/
 
 ----------------------------------
 Day 2
@@ -20,31 +18,31 @@ for, while, while, infinite loop
 break and continue
 number of primes
 
-https://jsfiddle.net/deepak104080/30y8bzs6/3/
-https://jsfiddle.net/deepak104080/rfuh02na/3/
-https://jsfiddle.net/deepak104080/ynhvq5sb/2/
+Type Conversion/Coercion - https://jsfiddle.net/deepak104080/30y8bzs6/4/
+Object and Fn Misc - https://jsfiddle.net/deepak104080/rfuh02na/5/
+Conditions and Loops - https://jsfiddle.net/deepak104080/ynhvq5sb/4/
 
 ----------------------------------
 Day 3
 Array and Methods
 Addition, Deletion, Check, Emptry, Spread Operator
 Fill, Find, Slice, Splice, Merge, Join, Split, Sort
-JSFiddle - https://jsfiddle.net/deepak104080/3528qen0/4/
+Array Methods - JSFiddle - https://jsfiddle.net/deepak104080/3528qen0/6/
 Arrow Function - https://jsfiddle.net/deepak104080/oj65wvn3/1/
 
 --------------------------------------
 Day 4
-https://jsfiddle.net/deepak104080/u5v0j2yb/1/
-https://jsfiddle.net/deepak104080/f3ehtrLm/3/
-https://jsfiddle.net/deepak104080/kopL8e1n/2/
-Assignment - https://jsfiddle.net/deepak104080/jwqmyxk5/11/
+Array Methods - https://jsfiddle.net/deepak104080/u5v0j2yb/4/
+OOPS - https://jsfiddle.net/deepak104080/f3ehtrLm/3/
+Object Methods - https://jsfiddle.net/deepak104080/kopL8e1n/2/
+Assignments - https://jsfiddle.net/deepak104080/jwqmyxk5/11/
 
 --------------------------------------
 Day  5
-https://jsfiddle.net/deepak104080/ovxf50pq/5/
-https://jsfiddle.net/deepak104080/6kqum4sh/4/
-https://jsfiddle.net/deepak104080/9cbfqv3y/2/
-https://jsfiddle.net/deepak104080/1ujv5hxr/2/
+Object cont... - https://jsfiddle.net/deepak104080/ovxf50pq/6/
+Object Value and Reference - https://jsfiddle.net/deepak104080/6kqum4sh/5/
+Deep vs Shallow Copy - https://jsfiddle.net/deepak104080/9cbfqv3y/3/
+OOPS Abstraction - https://jsfiddle.net/deepak104080/1ujv5hxr/2/
 
 
 ----------------------------------------------
@@ -70,7 +68,7 @@ DOM - js and html files
 -------------------------------------------------
 Day 10
 js and html files
-Event Bubbling and Capturing - https://jsfiddle.net/deepak104080/fw4yh8xn/43/
+Event Bubbling and Capturing - https://jsfiddle.net/deepak104080/fw4yh8xn/44/
 
 
 
