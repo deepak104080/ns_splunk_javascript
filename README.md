@@ -73,7 +73,11 @@ Event Bubbling and Capturing - https://jsfiddle.net/deepak104080/fw4yh8xn/44/
 Day 11
 js and html files
 Event Delegation - https://jsfiddle.net/deepak104080/b2rd0eq3/26/
-
+-------------------------------------------------
+Prototype - https://jsfiddle.net/deepak104080/k6adt3v2/15/
+Prototypical Inheritance - https://jsfiddle.net/deepak104080/sq62kfn7/14/
+Polyfill - https://jsfiddle.net/deepak104080/kc3svtx8/19/
+Object based doubt - https://jsfiddle.net/deepak104080/ynmace9h/16/
 
 
 
