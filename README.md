@@ -74,11 +74,20 @@ Day 11
 js and html files
 Event Delegation - https://jsfiddle.net/deepak104080/b2rd0eq3/26/
 -------------------------------------------------
+Day 12
 Prototype - https://jsfiddle.net/deepak104080/k6adt3v2/15/
 Prototypical Inheritance - https://jsfiddle.net/deepak104080/sq62kfn7/14/
 Polyfill - https://jsfiddle.net/deepak104080/kc3svtx8/19/
 Object based doubt - https://jsfiddle.net/deepak104080/ynmace9h/16/
-
+----------------------------------------------------
+Day 13
+Closure - https://jsfiddle.net/deepak104080/se3kg90j/33/
+Closure Example - https://jsfiddle.net/deepak104080/n01prehf/18/
+Event Loop - https://miro.medium.com/max/1838/1*iHhUyO4DliDwa6x_cO5E3A.gif
+setTimeout and setInterval - https://jsfiddle.net/deepak104080/s8t6hzck/23/
+Output Qs on Async - https://jsfiddle.net/deepak104080/f7s9ybk3/13/
+Drag and Drop Assignment Help- https://www.w3schools.com/jsref/event_ondragover.asp
+Drag and Drop Assignment Help - https://developer.mozilla.org/en-US/docs/Web/API/GlobalEventHandlers
 
 
 Excel Sheet Link for Interview Questions
