@@ -88,6 +88,14 @@ setTimeout and setInterval - https://jsfiddle.net/deepak104080/s8t6hzck/23/
 Output Qs on Async - https://jsfiddle.net/deepak104080/f7s9ybk3/13/
 Drag and Drop Assignment Help- https://www.w3schools.com/jsref/event_ondragover.asp
 Drag and Drop Assignment Help - https://developer.mozilla.org/en-US/docs/Web/API/GlobalEventHandlers
+----------------------------------------------------
+Day 13
+Good Building Assignment - Assignments/goodbuilding.js
+Callback - https://jsfiddle.net/deepak104080/dy2chegn/8/
+Promise - https://jsfiddle.net/deepak104080/9sgqao35/24/
+Promise - https://www.freecodecamp.org/news/content/images/2020/06/Ekran-Resmi-2020-06-06-12.21.27.png
+
+
 
 
 Excel Sheet Link for Interview Questions
