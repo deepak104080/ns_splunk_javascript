@@ -89,11 +89,19 @@ Output Qs on Async - https://jsfiddle.net/deepak104080/f7s9ybk3/13/
 Drag and Drop Assignment Help- https://www.w3schools.com/jsref/event_ondragover.asp
 Drag and Drop Assignment Help - https://developer.mozilla.org/en-US/docs/Web/API/GlobalEventHandlers
 ----------------------------------------------------
-Day 13
+Day 14
 Good Building Assignment - Assignments/goodbuilding.js
 Callback - https://jsfiddle.net/deepak104080/dy2chegn/8/
 Promise - https://jsfiddle.net/deepak104080/9sgqao35/24/
 Promise - https://www.freecodecamp.org/news/content/images/2020/06/Ekran-Resmi-2020-06-06-12.21.27.png
+----------------------------------------------------
+Day 15
+API Call with fetch and Promise - https://jsfiddle.net/deepak104080/zmk960yn/22/
+Async Await - https://jsfiddle.net/deepak104080/x2o4z1s8/11/
+API Call - Methods - https://jsfiddle.net/deepak104080/jemnga0v/7/
+Function Curry - https://jsfiddle.net/deepak104080/vbog61wu/14/
+Function Curry Example - https://jsfiddle.net/deepak104080/3p0mv9dz/11/
+
 
 
 
