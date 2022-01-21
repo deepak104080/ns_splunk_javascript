@@ -102,7 +102,11 @@ API Call - Methods - https://jsfiddle.net/deepak104080/jemnga0v/7/
 Function Curry - https://jsfiddle.net/deepak104080/vbog61wu/14/
 Function Curry Example - https://jsfiddle.net/deepak104080/3p0mv9dz/11/
 
-
+----------------------------------------------------
+Day 16
+Map-Set, Interator-Generator - mapset.html and js
+Box Sizing CSS - https://jsfiddle.net/deepak104080/gm8ywzjx/21/
+Interview Qs - https://jsfiddle.net/deepak104080/L23y4b7z/19/
 
 
 
