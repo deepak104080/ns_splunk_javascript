@@ -112,3 +112,41 @@ Interview Qs - https://jsfiddle.net/deepak104080/L23y4b7z/19/
 
 Excel Sheet Link for Interview Questions
 https://docs.google.com/spreadsheets/d/16dFFGj3JOWm7B7kietcCKuU8UdxdFMoraDY7JJZ0Mfw/edit?usp=sharing
+
+
+
+--------------------------------------------------------------
+React Repo Link - https://github.com/deepak104080/ns_splunk_react_intro
+
+npm create-react-app <your own folder name>
+or
+npx create-react-app@latest <your own folder name> --use-npm
+or
+npx create-react-app@5.0.0 <your own folder name>
+
+Official Doc - https://reactjs.org/
+
+
+
+----------------React Intro------------------
+Old Online Exam Systems - GATE, rrb, neptel, isro, SSC
+Desktp applications - java (soap - data transfer - api)
+
+Web Applications - Java, PHP, .NET, Python/perl/ruby
+
+Introduction of NodeJS
+Back end + Front end
+
+Limitation of HTML, CSS, JS to serve front end
+-- routing
+-- temorary data storage
+-- logical calculations
+-- dom handling
+-- handling css
+-- api calling
+
+Front End Module
+React - Facebook - Library
+Angular - Google - Framework
+
+jquery - javascript same as bootstrap - css (not same as React is to JS)
