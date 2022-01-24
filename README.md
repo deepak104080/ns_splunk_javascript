@@ -59,26 +59,32 @@ Day 7
 Palindrome String - https://jsfiddle.net/deepak104080/q8Lwosgt/6/
 Output based Questions - https://jsfiddle.net/deepak104080/bjv4ftqu/10/
 ES6 JS - https://jsfiddle.net/deepak104080/tpo05dey/28/
+
 ------------------------------------------------
 Day 8
 DOM - temp.js and temp.html
+
 --------------------------------------------------
 Day 9
 DOM - js and html files
+
 -------------------------------------------------
 Day 10
 js and html files
 Event Bubbling and Capturing - https://jsfiddle.net/deepak104080/fw4yh8xn/44/
+
 -------------------------------------------------
 Day 11
 js and html files
 Event Delegation - https://jsfiddle.net/deepak104080/b2rd0eq3/26/
+
 -------------------------------------------------
 Day 12
 Prototype - https://jsfiddle.net/deepak104080/k6adt3v2/15/
 Prototypical Inheritance - https://jsfiddle.net/deepak104080/sq62kfn7/14/
 Polyfill - https://jsfiddle.net/deepak104080/kc3svtx8/19/
 Object based doubt - https://jsfiddle.net/deepak104080/ynmace9h/16/
+
 ----------------------------------------------------
 Day 13
 Closure - https://jsfiddle.net/deepak104080/se3kg90j/33/
@@ -88,12 +94,14 @@ setTimeout and setInterval - https://jsfiddle.net/deepak104080/s8t6hzck/23/
 Output Qs on Async - https://jsfiddle.net/deepak104080/f7s9ybk3/13/
 Drag and Drop Assignment Help- https://www.w3schools.com/jsref/event_ondragover.asp
 Drag and Drop Assignment Help - https://developer.mozilla.org/en-US/docs/Web/API/GlobalEventHandlers
+
 ----------------------------------------------------
 Day 14
 Good Building Assignment - Assignments/goodbuilding.js
 Callback - https://jsfiddle.net/deepak104080/dy2chegn/8/
 Promise - https://jsfiddle.net/deepak104080/9sgqao35/24/
 Promise - https://www.freecodecamp.org/news/content/images/2020/06/Ekran-Resmi-2020-06-06-12.21.27.png
+
 ----------------------------------------------------
 Day 15
 API Call with fetch and Promise - https://jsfiddle.net/deepak104080/zmk960yn/22/
