@@ -135,6 +135,16 @@ npx create-react-app@5.0.0 <your own folder name>
 Official Doc - https://reactjs.org/
 
 
+# ############################################
+Other Repos :-
+JS - https://github.com/deepak104080/ns_splunk_javascript
+React Basics - https://github.com/deepak104080/ns_splunk_react_intro
+Node Basics - https://github.com/deepak104080/node_basics
+Online Exam - https://github.com/deepak104080/online_exam
+Online Exam Back End - 
+
+# ############################################
+
 
 ----------------React Intro------------------
 Old Online Exam Systems - GATE, rrb, neptel, isro, SSC
